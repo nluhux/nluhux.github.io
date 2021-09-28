@@ -3,7 +3,7 @@ author:
   name: Lu Hui
   email: luhux@foxmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-记录一些工作经验。
+
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
